@@ -1,0 +1,20 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+.idea/
+build/**/*
+.gradle/**/*
+webapp/out/**/*
+target
+target/
+
+
+#STS cache
+/webapp/.sts4-cache
+
+
+# VS Code
+.vscode
